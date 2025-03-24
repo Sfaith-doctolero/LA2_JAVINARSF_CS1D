@@ -1,34 +1,34 @@
 // Filename: CS2A_RVillanueva_C1-A1.js
 
-// Student 1: Raymond Villanueva
-const firstName1 = "Raymond";
-const middleName1 = "Lopez";
-const lastName1 = "Villanueva";
-const birthdate1 = "January 1, 2001";
-const birthplace1 = "Upper Bonifacio, Baguio City, Benguet, Philippines 2600";
-const address1 = "San Nicolas, Candon City, Ilocos Sur, Philippines 2710";
-const course1 = "Bachelor of Science in Computer Science";
-const dreamJob1 = "Software Engineer";
+// Student 1: Stephanie Faith Doctolero Javinar
+const firstName1 = "Stephanie Faith";
+const middleName1 = "Doctolero";
+const lastName1 = "Javinar";
+const birthdate1 = "October 28,2005";
+const birthplace1 = "Dili, Santa Cruz, Ilocos Sur, Philippines, 2713";
+const address1 = "Tablac, Candon City, Ilocos Sur, Philippines, 2710";
+const course1 = " BSCS 1";
+const dreamJob1 = "Software Developer";
 
-// Classmate 1: Adrian Mendoza
-const firstName2 = "Adrian";
-const middleName2 = "Lopez";
-const lastName2 = "Mendoza";
-const birthdate2 = "March 5, 2002";
-const birthplace2 = "Upper Bonifacio, Baguio City, Benguet, Philippines 2600";
-const address2 = "San Nicolas, Candon City, Ilocos Sur, Philippines 2710";
-const course2 = "Bachelor of Science in Information Technology";
-const dreamJob2 = "Cybersecurity Analyst";
+// Classmate 1: Neil O'Brein Etrata Ocampo
+const firstName2 = "Neil O'Brein";
+const middleName2 = "Etrata";
+const lastName2 = "Ocampo";
+const birthdate2 = "September 17, 2003";
+const birthplace2 = "Parioc 1st, Candon City, Ilocos Sur, Philippines, 2710";
+const address2 = "Oaig-Daya, Galimuyod, Ilocos Sur, Philippines, 2709";
+const course2 = "BSCS 1";
+const dreamJob2 = "Web Developer";
 
-// Classmate 2: Bianca Torres
-const firstName3 = "Bianca";
-const middleName3 = "Santos";
-const lastName3 = "Torres";
-const birthdate3 = "July 18, 2004";
-const birthplace3 = "Upper Bonifacio, Baguio City, Benguet, Philippines 2600";
-const address3 = "San Nicolas, Candon City, Ilocos Sur, Philippines 2710";
-const course3 = "Bachelor of Science in Computer Science";
-const dreamJob3 = "Data Scientist";
+// Classmate 2: Janeen Tawagen Inigo
+const firstName3 = "Janeen";
+const middleName3 = "Tawagen";
+const lastName3 = "Inigo";
+const birthdate3 = "September 16, 2006";
+const birthplace3 = "Labut, Lidlidda, Ilocos Sur, Philippines, 2723";
+const address3 = "Labut, Lidlidda, Ilocos Sur, Philippines, 2723";
+const course3 = "BSCS 1";
+const dreamJob3 = " Web Developer";
 
 // Function to format student info
 function formatStudentInfo(first, middle, last, bdate, bplace, addr, crs, job) {
