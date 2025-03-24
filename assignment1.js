@@ -1,4 +1,4 @@
-// Filename: CS2A_RVillanueva_C1-A1.js
+// Name: Javinar, Stephanie Faith D. 
 
 // Student 1: Stephanie Faith Doctolero Javinar
 const firstName1 = "Stephanie Faith";
