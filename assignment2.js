@@ -1,4 +1,4 @@
-// Filename: CS2A_SJavinar_C1-A2.js
+//Name: Javinar, Stephanie Faith D. 
 
 // Variable & Constant Declarations
 let a = 25;
