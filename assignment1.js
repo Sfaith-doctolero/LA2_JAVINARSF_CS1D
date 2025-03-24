@@ -7,7 +7,7 @@ const lastName1 = "Javinar";
 const birthdate1 = "October 28,2005";
 const birthplace1 = "Dili, Santa Cruz, Ilocos Sur, Philippines, 2713";
 const address1 = "Tablac, Candon City, Ilocos Sur, Philippines, 2710";
-const course1 = " BSCS 1";
+const course1 = "Bachelor of Science in Computer Science 1";
 const dreamJob1 = "Software Developer";
 
 // Classmate 1: Neil O'Brein Etrata Ocampo
@@ -17,7 +17,7 @@ const lastName2 = "Ocampo";
 const birthdate2 = "September 17, 2003";
 const birthplace2 = "Parioc 1st, Candon City, Ilocos Sur, Philippines, 2710";
 const address2 = "Oaig-Daya, Galimuyod, Ilocos Sur, Philippines, 2709";
-const course2 = "BSCS 1";
+const course2 = "Bachelor of Science in Computer Science 1";
 const dreamJob2 = "Web Developer";
 
 // Classmate 2: Janeen Tawagen Inigo
@@ -27,7 +27,7 @@ const lastName3 = "Inigo";
 const birthdate3 = "September 16, 2006";
 const birthplace3 = "Labut, Lidlidda, Ilocos Sur, Philippines, 2723";
 const address3 = "Labut, Lidlidda, Ilocos Sur, Philippines, 2723";
-const course3 = "BSCS 1";
+const course3 = "Bachelor of Science in Computer Science 1";
 const dreamJob3 = " Web Developer";
 
 // Function to format student info
